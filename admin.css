@@ -1,0 +1,38 @@
+#subtitlediv.top {
+  margin-top: 5px;
+  margin-bottom: 15px;
+  position: relative;
+}
+#subtitlediv.top #subtitlewrap {
+  border: 0;
+  padding: 0;
+}
+#subtitlediv.top #wpsubtitle {
+  background-color: #fff;
+  font-size: 1.4em;
+  line-height: 1em;
+  margin: 0;
+  outline: 0;
+  padding: 3px 8px;
+  width: 100%;
+  height: 1.7em;
+}
+#subtitlediv.top #wpsubtitle::-webkit-input-placeholder, #subtitlediv.top #wpsubtitle:-moz-placeholder, #subtitlediv.top #wpsubtitle::-moz-placeholder, #subtitlediv.top #wpsubtitle:-ms-input-placeholder {
+  padding-top: 3px;
+}
+#subtitlediv.top #subtitledescription {
+  margin: 5px 10px 0 10px;
+}
+
+.quick-edit-row-post .inline-edit-col-left-wps-subtitle {
+  clear: left;
+}
+
+.ui-sortable .ui-sortable-helper {
+  cursor: pointer;
+}
+.ui-sortable:hover {
+  background-color: rgba(244, 251, 17, 0.45);
+}
+
+/*# sourceMappingURL=admin.css.map */
